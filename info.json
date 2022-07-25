@@ -1,0 +1,8 @@
+{
+  "Id": "NoResetMod",
+  "DisplayName": "No Reset Mod",
+  "Author": "Spongeloaf",
+  "Version": "1.0",
+  "AssemblyName": "NoResetMod.dll",
+  "EntryMethod": "NoResetMod.Main.Load"
+}
