@@ -9,6 +9,6 @@ Completing the event will result in a terminal damage finish, to prevent cheatin
 
 ## Installatation
 
-* Visit the nexus mods page and download the mod
+* Visit [the nexus mods page](https://www.nexusmods.com/artofrally/mods/5) and download the mod
 * Download the Unity Mod Manager
 * Follow the steps on the mod manager page for installing mods
